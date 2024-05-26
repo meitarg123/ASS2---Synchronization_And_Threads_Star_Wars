@@ -1,5 +1,5 @@
 # Concurrent Event-Driven Microservices
-his project was developed as part of a university course on System Programming Language (SPL).
+This project was developed as part of a university course on System Programming Language (SPL).
 This project consists of two main sections:
 
 ## Section 1: Framework Development
